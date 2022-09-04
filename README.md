@@ -9,6 +9,7 @@ int main()
     printf("\nPress 2 for Reverse star pattern");
     printf("\nEnter your choice:");
     scanf("%d", &choice);
+    
     switch (choice)
     {
     case 1:
